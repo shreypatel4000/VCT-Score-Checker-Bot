@@ -13,3 +13,6 @@ This is a Python Script with which you can get score of the official Valorant Ch
   (3) Put the youtube data API v3 key in VCTScore2.py
   (4) Put the official youtube livestream link in gui.py
   (5) Run the gui.py file and Enjoy the score on the custom GUI!
+
+# Demo Video:
+https://github.com/user-attachments/assets/822e728e-0d72-4786-8807-dc2509c4cea6
